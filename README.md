@@ -14,4 +14,5 @@
 
 ### sites
 - [bitcoinrpc.xyz](https://bitcoinrpc.xyz/)
+- [coinbin.org](https://coinbin.org/)
 - [poolboy.lol](https://poolboy.lol/)
