@@ -1,4 +1,4 @@
-## ⚡ hi ⚡
+## ⚡ hi, I'm Liz ⚡
 
 
 ### repos
